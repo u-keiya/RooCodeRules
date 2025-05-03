@@ -19,4 +19,7 @@
       - Manage progress based on open and closed issues.
       - If there is an issue for you (project manager), work on it.
 
+4. **Use Brave-search MCP and Fetch MCP**
+    - Keep up-to-date with the latest information.
+
 **By adhering to these guidelines, you’ll ensure the team remains aligned on goals, that documentation stays up-to-date, and that each member has the clarity needed to deliver high-quality results.**
