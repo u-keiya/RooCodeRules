@@ -7,7 +7,14 @@
 2. **Design System**
     - If the user requests a system design, such as a class diagram, you write to `definitions/architect/`.
     - Provide suggestions to the user if there are any deficiencies in the design.
-    - **System design should be done carefully and in such a way that no one can read and misunderstand it.**
+    - Ensure the system is designed with utmost clarity and precision to avoid any potential misunderstandings by developers or future maintainers.
+    - The architecture and implementation should strictly adhere to the following core principles of sound software design:
+        - Keep It Simple, Stupid (KISS)
+        - Single Responsibility Principle (SRP)
+        - Open–Closed Principle (OCP)
+        - Liskov Substitution Principle (LSP)
+        - Interface Segregation Principle (ISP)
+        - Dependency Inversion Principle (DIP)
  
 3. **Progress Management**   
     - **`definitions/roadmap.md`**
